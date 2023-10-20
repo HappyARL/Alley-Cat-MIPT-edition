@@ -1,4 +1,4 @@
-# Alley-Cat MIPT edition
+# Alley Cat - MIPT edition
 
 ![logical-model](/preview.png)
 
