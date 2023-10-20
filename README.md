@@ -2,9 +2,9 @@
 
 ![logical-model](/preview.png)
 
-Ремейк классической игры Билла Уильямса 1984 года "AlleyCat", вдохновленной жизнью толстого лысого кота из 7-го общежития.
+Ремейк классической игры Билла Уильямса 1984 года "AlleyCat", вдохновленной жизнью толстого, лысого кота из 7-го общежития.
 
-> A remake of Bill Williams' classic 1984 game "Alley Cat", inspired by the life of a fat bald cat from the 7th dorm.
+> A remake of Bill Williams' classic 1984 game "Alley Cat", inspired by the life of a fat, bald cat from the 7th dorm.
 
 ## Идея игры:
 
@@ -22,6 +22,6 @@ The player in the role of a cat needs to catch all three mice without catching t
 
 ## Зачем и главное н@ху... :
 
-Игра была выполнена в рамках первого домашнего задания курса "Разработка видел игр на Unity".
+Игра была выполнена в рамках первого домашнего задания курса "Разработка видео игр на Unity".
 
 > The game was completed as part of the first homework assignment of the course "Video game Development on Unity".
